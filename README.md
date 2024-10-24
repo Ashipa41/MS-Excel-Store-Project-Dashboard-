@@ -1,1 +1,1 @@
-# SuperStore-Project-Interactive (Dashboard creation using MS Excel)
+# SuperStore-Project (Interactive Dashboard creation using MS Excel)
