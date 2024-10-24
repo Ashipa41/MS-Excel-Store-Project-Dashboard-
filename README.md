@@ -11,11 +11,11 @@ The objective of the Store Sales Dataset is to analyse and forecast sales perfor
 
 ## Data Analysis Findings you can drive:
 
-**Total Sales:** Calculate the total sales, average sales per transaction, minimal sales and maximum sales.
-**Total Sales by Year/Month:** calculate the total sales by year/months.
-**Sales by Region:** Analyse which region contributes the most/least sales.
-**Sales by Category/Sub-Category:** Identify the best and worst-selling product categories or sub-  categories.
-**Top Customers by Sales:** Identify the top 10 customers generating the highest revenue.
-**Sales by State:** Perform a geographic analysis to identify the top 10 states.
+1. **Total Sales:** Calculate the total sales, average sales per transaction, minimal sales and maximum sales.
+2. **Total Sales by Year/Month:** calculate the total sales by year/months.
+3. **Sales by Region:** Analyse which region contributes the most/least sales.
+4. **Sales by Category/Sub-Category:** Identify the best and worst-selling product categories or sub-  categories.
+5. **Top Customers by Sales:** Identify the top 10 customers generating the highest revenue.
+6. **Sales by State:** Perform a geographic analysis to identify the top 10 states.
 
 
