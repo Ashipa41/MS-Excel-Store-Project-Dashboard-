@@ -20,10 +20,15 @@ The objective of the Store Sales Dataset is to analyse and forecast sales perfor
 
 ## Key Insights from the Sore Data 2024:
 **Overall Sales Performance:**
-•	Total Sales (£ 2,261,536.78)
-•	The average sale per transaction is £ 230.77, with the min = £0.44 and max = £22,638.48.
+Total Sales (£ 2,261,536.78)
+The average sale per transaction is £ 230.77, with the min = £0.44 and max = £22,638.48.
 
 **Sales By Years:**
-•	Year 2018 is the most profitable year with a sale of £ 722,052. From the previous year’s 2015 – 2018 the number of sales increases .
+Year 2018 is the most profitable year with a sale of £ 722,052. From the previous year’s 2015 – 2018 the number of sales increases.
+
+**Sales By Months:**
+Sales by months shown in the chart, consists of the combination of the years and month but for independent year the sales usually become profitable  from August – December.
+
+
 
 
