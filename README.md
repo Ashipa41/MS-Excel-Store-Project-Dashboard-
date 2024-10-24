@@ -52,4 +52,4 @@ New York and Texas follow with £306,361.15 and £168,572.53, respectively.
 Washington and Pennsylvania  with sales of £135,206.85 and £116,276.65.
 Florida with sales of £88,436.53, while Illinois sales of £79,236.53, Michigan £76,136.07, Ohio £75,130.35 and Virginia £70,636.72.
 
-
+Dataset: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data
