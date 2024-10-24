@@ -9,6 +9,8 @@ The objective of the Store Sales Dataset is to analyse and forecast sales perfor
 4.	**Product Performance:** Determining the best-selling product categories and sub-categories.
 5.	**Forecasting:** Predicting future sales using linear forecasting methods based on past data, helping the store to plan inventory, marketing strategies, and operations.
 
+**Dataset:** https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data
+
 ## Data Analysis Findings you can drive:
 
 1. **Total Sales:** Calculate the total sales, average sales per transaction, minimal sales and maximum sales.
@@ -52,4 +54,4 @@ New York and Texas follow with £306,361.15 and £168,572.53, respectively.
 Washington and Pennsylvania  with sales of £135,206.85 and £116,276.65.
 Florida with sales of £88,436.53, while Illinois sales of £79,236.53, Michigan £76,136.07, Ohio £75,130.35 and Virginia £70,636.72.
 
-Dataset: https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data
+
