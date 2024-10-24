@@ -18,4 +18,12 @@ The objective of the Store Sales Dataset is to analyse and forecast sales perfor
 5. **Top Customers by Sales:** Identify the top 10 customers generating the highest revenue.
 6. **Sales by State:** Perform a geographic analysis to identify the top 10 states.
 
+## Key Insights from the Sore Data 2024:
+**Overall Sales Performance:**
+•	Total Sales (£ 2,261,536.78)
+•	The average sale per transaction is £ 230.77, with the min = £0.44 and max = £22,638.48.
+
+**Sales By Years:**
+•	Year 2018 is the most profitable year with a sale of £ 722,052. From the previous year’s 2015 – 2018 the number of sales increases .
+
 
